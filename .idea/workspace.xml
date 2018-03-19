@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="83844e19-436b-4cee-a648-de62e34df437" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/greeting-config.yml" afterPath="$PROJECT_DIR$/greeting-config.yml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +27,8 @@
       <file leaf-file-name="greeting-config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/greeting-config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -55,6 +56,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.idea/hello-world.yml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/greeting-config.yml" />
       </list>
     </option>
@@ -223,12 +225,12 @@
       <option name="presentableId" value="Default" />
       <updated>1521424775066</updated>
       <workItem from="1521424776207" duration="968000" />
-      <workItem from="1521484463209" duration="1083000" />
+      <workItem from="1521484463209" duration="1625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2051000" />
+    <option name="totallyTimeSpent" value="2593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-254" y="-1057" width="1920" height="1057" extended-state="6" />
@@ -296,10 +298,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/greeting-config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
           <folding />
         </state>
       </provider>
